@@ -1,0 +1,15 @@
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/obj/Debug/net6.0/Example004_1-n.csproj.AssemblyReference.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/obj/Debug/net6.0/Example004_1-n.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/obj/Debug/net6.0/Example004_1-n.AssemblyInfoInputs.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/obj/Debug/net6.0/Example004_1-n.AssemblyInfo.cs
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/obj/Debug/net6.0/Example004_1-n.csproj.CoreCompileInputs.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/bin/Debug/net6.0/Example004_1-n
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/bin/Debug/net6.0/Example004_1-n.deps.json
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/bin/Debug/net6.0/Example004_1-n.runtimeconfig.json
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/bin/Debug/net6.0/Example004_1-n.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/bin/Debug/net6.0/Example004_1-n.pdb
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/obj/Debug/net6.0/Example004_1-n.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/obj/Debug/net6.0/refint/Example004_1-n.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/obj/Debug/net6.0/Example004_1-n.pdb
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/obj/Debug/net6.0/Example004_1-n.genruntimeconfig.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example004_1-n/obj/Debug/net6.0/ref/Example004_1-n.dll
