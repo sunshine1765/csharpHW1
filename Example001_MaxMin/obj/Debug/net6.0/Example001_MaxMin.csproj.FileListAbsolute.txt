@@ -1,0 +1,15 @@
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/bin/Debug/net6.0/Example001_MaxMin
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/bin/Debug/net6.0/Example001_MaxMin.deps.json
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/bin/Debug/net6.0/Example001_MaxMin.runtimeconfig.json
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/bin/Debug/net6.0/Example001_MaxMin.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/bin/Debug/net6.0/Example001_MaxMin.pdb
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/obj/Debug/net6.0/Example001_MaxMin.csproj.AssemblyReference.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/obj/Debug/net6.0/Example001_MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/obj/Debug/net6.0/Example001_MaxMin.AssemblyInfoInputs.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/obj/Debug/net6.0/Example001_MaxMin.AssemblyInfo.cs
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/obj/Debug/net6.0/Example001_MaxMin.csproj.CoreCompileInputs.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/obj/Debug/net6.0/Example001_MaxMin.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/obj/Debug/net6.0/refint/Example001_MaxMin.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/obj/Debug/net6.0/Example001_MaxMin.pdb
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/obj/Debug/net6.0/Example001_MaxMin.genruntimeconfig.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example001_MaxMin/obj/Debug/net6.0/ref/Example001_MaxMin.dll
