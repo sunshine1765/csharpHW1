@@ -1,0 +1,15 @@
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/obj/Debug/net6.0/Example003_4tnoeNumber.csproj.AssemblyReference.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/obj/Debug/net6.0/Example003_4tnoeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/obj/Debug/net6.0/Example003_4tnoeNumber.AssemblyInfoInputs.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/obj/Debug/net6.0/Example003_4tnoeNumber.AssemblyInfo.cs
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/obj/Debug/net6.0/Example003_4tnoeNumber.csproj.CoreCompileInputs.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/bin/Debug/net6.0/Example003_4tnoeNumber
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/bin/Debug/net6.0/Example003_4tnoeNumber.deps.json
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/bin/Debug/net6.0/Example003_4tnoeNumber.runtimeconfig.json
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/bin/Debug/net6.0/Example003_4tnoeNumber.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/bin/Debug/net6.0/Example003_4tnoeNumber.pdb
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/obj/Debug/net6.0/Example003_4tnoeNumber.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/obj/Debug/net6.0/refint/Example003_4tnoeNumber.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/obj/Debug/net6.0/Example003_4tnoeNumber.pdb
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/obj/Debug/net6.0/Example003_4tnoeNumber.genruntimeconfig.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example003_4tnoeNumber/obj/Debug/net6.0/ref/Example003_4tnoeNumber.dll
