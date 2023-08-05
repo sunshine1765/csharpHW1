@@ -1,0 +1,15 @@
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/obj/Debug/net6.0/Example002_MaxMin3num.csproj.AssemblyReference.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/obj/Debug/net6.0/Example002_MaxMin3num.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/obj/Debug/net6.0/Example002_MaxMin3num.AssemblyInfoInputs.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/obj/Debug/net6.0/Example002_MaxMin3num.AssemblyInfo.cs
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/obj/Debug/net6.0/Example002_MaxMin3num.csproj.CoreCompileInputs.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/bin/Debug/net6.0/Example002_MaxMin3num
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/bin/Debug/net6.0/Example002_MaxMin3num.deps.json
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/bin/Debug/net6.0/Example002_MaxMin3num.runtimeconfig.json
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/bin/Debug/net6.0/Example002_MaxMin3num.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/bin/Debug/net6.0/Example002_MaxMin3num.pdb
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/obj/Debug/net6.0/Example002_MaxMin3num.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/obj/Debug/net6.0/refint/Example002_MaxMin3num.dll
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/obj/Debug/net6.0/Example002_MaxMin3num.pdb
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/obj/Debug/net6.0/Example002_MaxMin3num.genruntimeconfig.cache
+/Users/olegbereut/Desktop/Сsharpdz1/Example002_MaxMin3num/obj/Debug/net6.0/ref/Example002_MaxMin3num.dll
